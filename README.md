@@ -27,6 +27,7 @@ Based on the three-year range of birth years (1952-1955), there were 33,118 empl
 
 <img src = "Count of Retiring by Title.png" width = "400">
 ### Mentors
+
 There are 1,549 employees born in 1965 that could serve in the mentorship role. These employees might be able to train and coach new employees coming on board, as the impact will be great over the next few years as the "Baby-Boomers" start to retire.  Likely, each mentor will also need to be coached and trained, either by senior management or through an outside consulting firm.  This will financially be burdensome, but could offset the loss of so many seasoned employees.  A combination of mentoring and keeping older employees on longer in a part-time role could be useful.
 
 ## Implications
